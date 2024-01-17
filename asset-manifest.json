@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KTSS/static/css/main.bee3db52.css",
+    "main.js": "/KTSS/static/js/main.dd5771ff.js",
+    "static/media/ktss_logo.png": "/KTSS/static/media/ktss_logo.147505c7af96a3abcbd8.png",
+    "index.html": "/KTSS/index.html",
+    "main.bee3db52.css.map": "/KTSS/static/css/main.bee3db52.css.map",
+    "main.dd5771ff.js.map": "/KTSS/static/js/main.dd5771ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee3db52.css",
+    "static/js/main.dd5771ff.js"
+  ]
+}
